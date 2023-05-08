@@ -1,5 +1,6 @@
 <?php
 
+// import della classe per la composizione direttamente nel file della classe principale
 require_once __DIR__ . "/Category.php";
 
 class Product {
